@@ -1,11 +1,9 @@
 # ML From Scratch
 
 A lightweight Python library that implements core machine learning algorithms from scratch using NumPy.  
-Ideal for learning internals of ML models, experimenting, and showcasing on your resume.
+Ideal for learning internals of ML models, experimenting.
 
----
 
-ml_from_scratch/
 
 
 
