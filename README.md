@@ -31,8 +31,8 @@ ml_from_scratch/
 Clone the repository and import desired modules directly:
 
 ```bash
-git clone https://github.com/your-username/ml-from-scratch.git
-cd ml-from-scratch
+git clone https://github.com/vanshjain-88/ml_library.git
+cd ml_library
 
 
 -------------------------------------------
